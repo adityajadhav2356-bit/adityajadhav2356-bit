@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Jadhav</h1>
 
-<h3 align="center">🚀 Aspiring Java Full Stack Developer from </h3>
+<h3 align="center">🚀 Aspiring Java Full Stack Developer  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;React+%7C+MongoDB+%7C+MySQL;Passionate+about+Web+Development;Always+Learning+New+Technologies" />
@@ -84,7 +84,7 @@ RescueLink is a real-time worker safety and monitoring platform designed for haz
 
 
 ## 🤝 DigiSaathi
-DigiSaathi is a full-stack web application designed specifically for senior citizens to learn digital skills like UPI payments, WhatsApp basics, and Aadhaar services in a safe, accessible, and friendly environment.
+    DigiSaathi is a full-stack web application designed specifically for senior citizens to learn digital skills like UPI payments, WhatsApp basics, and Aadhaar services in a safe, accessible, and friendly environment.
 ---
 
 <p align="center">
