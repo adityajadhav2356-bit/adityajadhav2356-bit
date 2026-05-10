@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Jadhav</h1>
 
-<h3 align="center">🚀 Aspiring Java Full Stack Developer from India</h3>
+<h3 align="center">🚀 Aspiring Java Full Stack Developer from </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;React+%7C+MongoDB+%7C+MySQL;Passionate+about+Web+Development;Always+Learning+New+Technologies" />
@@ -58,23 +58,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityajadhav2356-bit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=adityajadhav2356-bit&theme=tokyonight&hide_border=false"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajadhav2356-bit&theme=tokyonight&hide_border=false&layout=compact"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -92,25 +76,15 @@
 
 ---
 
-# 🐍 Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityajadhav2356-bit/adityajadhav2356-bit/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
-## 🐄 Bharat Pashudhan App AI Solution
-AI-powered breed recognition system for livestock identification.
+## Rescuelink
+RescueLink is a real-time worker safety and monitoring platform designed for hazardous and industrial environments (e.g., mining, construction, and remote field sites). It provides an integrated ecosystem that connects field workers with their supervisors, featuring live vital tracking, precise geolocation, environmental monitoring, and instant emergency SOS protocols.
 
-## 🌳 FRA Atlas & WebGIS DSS
-AI-powered monitoring and decision support system for Forest Rights Act implementation.
 
 ## 🤝 DigiSaathi
-Digital assistance platform focused on smart and accessible services.
-
+DigiSaathi is a full-stack web application designed specifically for senior citizens to learn digital skills like UPI payments, WhatsApp basics, and Aadhaar services in a safe, accessible, and friendly environment.
 ---
 
 <p align="center">
