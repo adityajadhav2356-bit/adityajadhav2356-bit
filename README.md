@@ -82,9 +82,12 @@
 ## Rescuelink
 RescueLink is a real-time worker safety and monitoring platform designed for hazardous and industrial environments (e.g., mining, construction, and remote field sites). It provides an integrated ecosystem that connects field workers with their supervisors, featuring live vital tracking, precise geolocation, environmental monitoring, and instant emergency SOS protocols.
 
+## Digisaathi
+DigiSaathi is a full-stack web application designed specifically for senior citizens to learn digital skills like UPI payments, WhatsApp basics, and Aadhaar services in a safe, accessible, and friendly environment.
 
-## 🤝 DigiSaathi
-    DigiSaathi is a full-stack web application designed specifically for senior citizens to learn digital skills like UPI payments, WhatsApp basics, and Aadhaar services in a safe, accessible, and friendly environment.
+
+
+  
 ---
 
 <p align="center">
